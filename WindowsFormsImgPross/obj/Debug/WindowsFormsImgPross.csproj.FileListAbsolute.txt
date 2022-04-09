@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\bin\Debug\WindowsFormsImgPross.exe.config
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\bin\Debug\WindowsFormsImgPross.exe
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\bin\Debug\WindowsFormsImgPross.pdb
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\obj\Debug\WindowsFormsImgPross.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\obj\Debug\WindowsFormsImgPross.Form1.resources
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\obj\Debug\WindowsFormsImgPross.Properties.Resources.resources
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\obj\Debug\WindowsFormsImgPross.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\obj\Debug\WindowsFormsImgPross.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\obj\Debug\WindowsFormsImgPross.exe
+C:\Users\Ali\source\repos\WindowsFormsImgPross\WindowsFormsImgPross\obj\Debug\WindowsFormsImgPross.pdb
